@@ -5,7 +5,7 @@
 Udacity git project
 
 ### Description
-supplies bikshare_2.py file that creates bikeshar stats
+supplies bikshare_2.py file that creates bikeshare stats
 
 ### Files used
 bikeshare_2.py
